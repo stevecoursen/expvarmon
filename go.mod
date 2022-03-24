@@ -1,4 +1,4 @@
-module github.com/scoursen/expvarmon
+module github.com/stevecoursen/expvarmon
 
 go 1.18
 
